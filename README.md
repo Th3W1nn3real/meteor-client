@@ -1,7 +1,7 @@
 
 <p align="center">
 <img src="https://meteorclient.com/icon.png" alt="meteor-client-logo" width="15%"/>
-</p>
+</p> 
 
 <h1 align="center">Meteor</h1>
 <p align="center">A Minecraft Fabric Utility Mod for anarchy servers.</p>
@@ -40,7 +40,7 @@ Bug reports and suggestions should be made in this repo's [issue tracker](https:
 Please provide as much information as you can to best help us understand your issue and give a better chance of it being resolved.
 
 ## Donations
-All of our work is completely free and non-profit (donations pay only for hosting costs), therefore we are very grateful for all donations made to support us in running our community.  
+ez - All of our work is completely free and non-profit (donations pay only for hosting costs), therefore we are very grateful for all donations made to support us in running our community.  
 Donations can be made via our [website](https://meteorclient.com/donate) and the minimum amount to get donor benefits is €5.  
 You will be rewarded with a role on our Discord server and a customisable in-game cape.  
 ⚠️ _Make sure to create a Meteor account and link your Discord and Minecraft accounts to fully experience your rewards._ ⚠️
